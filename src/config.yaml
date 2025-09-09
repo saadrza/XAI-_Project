@@ -1,0 +1,4 @@
+folder_path : "C:\\Users\\saadr\\Desktop\\data_XAI\\data\\pancreas\\pancreas"
+path: "C:\\Users\\saadr\\Desktop\\data_XAI\\data\\pancreas\\pancreas\\image"
+model_path: "C:\\Users\\saadr\\Desktop\\data_XAI\\models"
+csv_path: "C:\\Users\\saadr\\Desktop\\data_XAI\\data\\pancreas\\pancreas\\attention_label\\results_img_PT7_factual.csv"
